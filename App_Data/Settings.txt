@@ -1,0 +1,2 @@
+DataProvider: sqlserver
+DataConnectionString: Data Source=c7359f4f-128e-4680-ab22-a5e200e53850.sqlserver.sequelizer.com;Initial Catalog=dbc7359f4f128e4680ab22a5e200e53850;Integrated Security=False;Persist Security Info=False;User ID=cyisaymyuhkyqifb;Password=GnfGNBqFPVQd65Sb3tHMHVPtsPsdeBgMBrdhGiTKQVcmrzb2GyduUGBUETo8imBn
